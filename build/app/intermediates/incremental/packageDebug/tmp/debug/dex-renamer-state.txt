@@ -1,0 +1,4 @@
+#Thu Jan 02 14:12:01 CST 2020
+base.0=/Users/hyc/Desktop/flutter/workspace/newyubei/yubei/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
